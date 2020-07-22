@@ -73,3 +73,11 @@ body {
 .carousel-control-prev {
     transform: translateX(-20%);
 }
+
+.modal-content {
+    color: black;
+}
+
+.modal-body {
+    color: black;
+}
